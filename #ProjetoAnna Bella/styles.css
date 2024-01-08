@@ -1,0 +1,16 @@
+body {
+	background: #d2d2d2c1; 
+	background-image: url('imagens/fundo.png');
+	background-position: center;
+	background-position: center;
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+.capa {
+	width: 1364px;
+	height: 358px;
+}
+
+.nav { 
+	background-color: darkkhaki;
+}
