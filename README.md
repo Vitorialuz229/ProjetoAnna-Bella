@@ -2,7 +2,6 @@
 Bem-vindo ao repositório do site oficial da modelo Anna Bella. Este projeto é dedicado a apresentar a beleza, a carreira e as campanhas publicitárias incríveis de Anna Bella.
 <br> 
 # Conteúdo
-* Visão Geral
 * Páginas
 * Tecnologias Utilizadas
 
