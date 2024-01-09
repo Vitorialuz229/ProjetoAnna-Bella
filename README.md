@@ -17,7 +17,7 @@ Contact information, contact form and links to your social networks. An easy way
 
 # Technologies Used
 * HTML5
-*CSS3
+* CSS3
 <br>
 <br>
 <br>
