@@ -1,0 +1,112 @@
+body {
+	background: #d2d2d2c1 url('imagens/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+	color:black;
+	width: auto;
+	justify-content: center;
+}
+
+.header capa{ 
+	width: 100%;
+	height: 100%;
+	background-attachment: scroll;
+}
+
+.menu { 
+	width: auto;
+    background-color:#c5c5b2;;
+    padding: 18px;
+}
+
+.menu a { 
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 85px;
+	text-align: center;
+}
+
+.conteudo { 
+	background:  #e4dcdcc1;
+	padding: 5px 80px 1px 80px;
+}
+
+footer { 
+	width: auto;
+    background-color: #c5c5b2;
+    padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+h1, h2, h3{ 
+	color: #829271;
+}
+
+h2, h3 { 
+	font-size: 1.2em;
+}
+
+.conteudo-campanha { 
+	background:  #e4dcdcc1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0px 80px 5px 80px;
+}
+.conteudo-contato {
+	background: #e4dcdcc1;
+	padding: 5px 80px 5px 80px;
+	border-radius: 10px;
+  }
+  
+  .conteudo-contato h3 {
+	color: #829271;
+	font-size: 1.5em;
+  }
+  
+  .conteudo-contato strong {
+	color: #829271;
+  }
+
+  #form input,
+  #form textarea {
+	width: 100%;
+	padding: 10px 5px;
+	margin-bottom: 10px;
+  }
+  
+  #submit {
+	background-color: #413e31;
+	color: #e4e4e4;
+	border: none;
+	padding: 15px;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 1em;
+  }
+  
+  #submit:hover {
+	background-color: #a3a139;
+  }
+  
+  ul {
+	list-style: none;
+	padding: 0;
+  }
+  
+  ul li {
+	margin-bottom: 5px;
+  }
+  
+  a {
+	text-decoration: none;
+	color: #4b566a;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+	color: #3952a3;
+  }
+  
