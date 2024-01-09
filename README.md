@@ -5,7 +5,6 @@ Bem-vindo ao repositório do site oficial da modelo Anna Bella. Este projeto é 
 * Visão Geral
 * Páginas
 * Tecnologias Utilizadas
-<br>
 
 # Páginas
 1. Home
