@@ -57,8 +57,12 @@ h2, h3 {
 }
 .conteudo-contato {
 	background: #e4dcdcc1;
-	padding: 5px 80px 5px 80px;
+	padding: 0px 130px 0px 130px;
 	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: right;
+	justify-content: center;
   }
   
   .conteudo-contato h3 {
@@ -69,6 +73,15 @@ h2, h3 {
   .conteudo-contato strong {
 	color: #829271;
   }
+
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:  #e4dcdcc1;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
   #form input,
   #form textarea {
