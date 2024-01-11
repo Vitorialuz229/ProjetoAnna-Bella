@@ -1,4 +1,4 @@
-# Anna Bella - Official Website
+# Anna Bella - Official Website - EN | PT
 Welcome to the repository of model Anna Bella's official website. This project is dedicated to showcasing Anna Bella's beauty, career and incredible advertising campaigns.
 <br>
 # Content
@@ -44,7 +44,7 @@ Contact information, contact form and links to your social networks. An easy way
 
 
 
-# Anna Bella - Site Oficial
+# Anna Bella - Site Oficial - EN | PT
 Bem-vindo ao repositório do site oficial da modelo Anna Bella. Este projeto é dedicado a apresentar a beleza, a carreira e as campanhas publicitárias incríveis de Anna Bella.
 <br> 
 # Conteúdo
