@@ -7,7 +7,7 @@ Welcome to the repository of model Anna Bella's official website. This project i
 
 # Pages
 1. Home
-Brief introduction to the site and easy navigation to other sections.
+Brief introduction to the site and easy navigation to other sections.<br>
 ![Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/e88d8d5b-b7ee-440e-abbc-805c6edc4670)
 ![Sobre Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/f44e1680-454d-485c-9d2b-8537e533ad2e)
 
