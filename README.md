@@ -7,7 +7,7 @@ Welcome to the repository of model Anna Bella's official website. This project i
 
 # Pages
 1. Home
-Brief introduction to the site and easy navigation to other sections.<br>
+Brief introduction to the site and easy navigation to other sections.
 ![Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/e88d8d5b-b7ee-440e-abbc-805c6edc4670)
 ![Sobre Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/f44e1680-454d-485c-9d2b-8537e533ad2e)
 
@@ -60,12 +60,15 @@ Bem-vindo ao repositório do site oficial da modelo Anna Bella. Este projeto é 
 
 # Páginas
 1. Home
-Breve introdução ao site e navegação fácil para outras seções.<br>
-2. Biografia
+Breve introdução ao site e navegação fácil para outras seções.
+![Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/e88d8d5b-b7ee-440e-abbc-805c6edc4670)
+![Sobre Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/f44e1680-454d-485c-9d2b-8537e533ad2e)
+
+3. Biografia
 Detalhes fascinantes sobre a vida de Anna Bella, desde sua infância até suas realizações na indústria da moda.<br>
-3. Campanhas Publicitárias
+4. Campanhas Publicitárias
 Uma galeria visualmente atraente exibindo suas campanhas mais recentes e impactantes. As imagens mostram a versatilidade e a elegância de Anna Bella.<br>
-4. Contato
+5. Contato
 Informações de contato, formulário de contato e links para suas redes sociais. Uma maneira fácil para fãs, empresas e imprensa se conectarem.<br>
 
 # Tecnologias Utilizadas
