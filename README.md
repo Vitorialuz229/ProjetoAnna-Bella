@@ -12,9 +12,13 @@ Brief introduction to the site and easy navigation to other sections.<br>
 ![Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/e88d8d5b-b7ee-440e-abbc-805c6edc4670)
 ![Sobre Home](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/f44e1680-454d-485c-9d2b-8537e533ad2e)
 
-
 2. Biography
 Fascinating details about Anna Bella's life, from her childhood to her achievements in the fashion industry.<br>
+
+![Bio](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/80eaa163-4246-451d-b1a8-e3a9f032baff)
+![History](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/23fe9e60-f713-4541-b4b9-2f55789d06d3)
+
+
 3. Advertising Campaigns
 A visually appealing gallery showcasing your latest and most impactful campaigns. The images show Anna Bella's versatility and elegance.<br>
 4. Contact
