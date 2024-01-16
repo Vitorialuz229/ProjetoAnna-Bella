@@ -25,7 +25,7 @@ Fascinating details about Anna Bella's life, from her childhood to her achieveme
    
 A visually appealing gallery showcasing your latest and most impactful campaigns. The images show Anna Bella's versatility and elegance.<br>
 
-![Campaigs](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/8293e388-1691-41de-b2da-d7757dfb18a2)
+![Captura de Tela (39)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/f1fb6f9a-6fc0-4498-a422-c2d1cdfcd11b)
 ![Captura de Tela (26)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/aa832366-71fb-42f8-8280-d1e3ef9e57fa)
 ![Captura de Tela (27)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/86e50851-79ca-4be8-a639-8286a11b3053)
 ![Captura de Tela (28)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/a6e62bd4-b740-4282-a235-e4ed0dd82e06)
