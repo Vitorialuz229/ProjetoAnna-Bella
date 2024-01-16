@@ -31,14 +31,15 @@ A visually appealing gallery showcasing your latest and most impactful campaigns
 ![Captura de Tela (28)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/a6e62bd4-b740-4282-a235-e4ed0dd82e06)
 ![Captura de Tela (29)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/ca6af372-51b1-4763-b9c1-af6368d85cb8)
 ![Captura de Tela (30)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/67886659-1502-4212-b777-ac12f89ed807)
-![Captura de Tela (31)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/bc814f73-fc25-4aae-9b55-39fd4092760b)
-![Captura de Tela (32)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/38ef0565-b372-4222-a731-14428908832d)
+![Captura de Tela (41)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/157e53e8-2f02-43ca-bada-981ea61fd987)
 
 5. Contact
 Contact information, contact form and links to your social networks. An easy way for fans, companies and press to connect.<br>
 
-
-
+![Captura de Tela (40)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/ccd36017-1a63-4318-bed9-9a5cc7dde8ac)
+![Captura de Tela (34)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/247b99ae-784b-4922-afcb-fd37f79619ad)
+![Captura de Tela (35)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/4120949f-0a2a-4883-97ef-86977e51113d)
+![Captura de Tela (36)](https://github.com/Vitorialuz229/ProjetoAnna-Bella/assets/110250731/5d536707-26d7-49ec-af62-1bf067724921)
 
 # Technologies Used
 * HTML5
